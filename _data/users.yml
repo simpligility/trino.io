@@ -707,6 +707,22 @@
       url: https://trino.io/blog/2022/12/09/trino-summit-2022-shopify-recap.html
     - urltext: Shopify's Path to a Faster Trino Query Execution - Infrastructure
       url: https://shopify.engineering/faster-trino-query-execution-infrastructure
+- name: Stackable
+  highlight: false
+  anchor: stackable
+  logo: /assets/images/logos/stackable.png
+  logosmall: /assets/images/logos/stackable-small.png
+  testimonial: |
+    about Stackable
+
+    about Trino offering
+  links:
+    - urltext: View the Stackable website
+      url: https://stackable.tech/
+    - urltext: Stackable Operator for Trino
+      url: https://github.com/stackabletech/trino-operator
+    - urltext: Talk about OPA and Trino
+      url: tbd
 - name: Starburst
   highlight: true
   anchor: starburst
