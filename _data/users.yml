@@ -713,16 +713,23 @@
   logo: /assets/images/logos/stackable.png
   logosmall: /assets/images/logos/stackable-small.png
   testimonial: |
-    about Stackable
-
-    about Trino offering
+    Stackable provides you with a curated selection of the best open source data apps like Apache Kafka®, 
+    Apache Druid, Trino and Apache Spark™. Store, process and visualize your data with the latest versions. 
+    All data apps work together seamlessly, and can be added or removed in no time. Based on Kubernetes, 
+    it runs everywhere – on prem or in the cloud.
+    
+    Use it to create unique and enterprise-class data architectures. For example, it supports modern Data 
+    Warehouses, Data Lakes, Event Streaming, Machine Learning or Data Meshes.
+  
+    Stackable offers a Trino operator for Kubernetes that allows to easily spin up, scale and maintain one or
+    many Trino instances that are configured to be secure and performant out of the box.
   links:
     - urltext: View the Stackable website
       url: https://stackable.tech/
     - urltext: Stackable Operator for Trino
       url: https://github.com/stackabletech/trino-operator
     - urltext: Talk about OPA and Trino
-      url: tbd
+      url: https://www.youtube.com/watch?v=fbqqapQbAv0
 - name: Starburst
   highlight: true
   anchor: starburst
