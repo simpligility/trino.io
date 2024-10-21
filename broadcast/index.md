@@ -20,12 +20,9 @@ interesting developments in the ecosystem around Trino.
 ## Upcoming episodes
 
 <dl>
-<dt>24 October 2024: Trino Community Broadcast 67 - Blistering performance with Exasol and Trino</dt>
+<dt>14 November 2024: Trino Community Broadcast 68</dt>
 <dd>
-<a href="https://github.com/kaklakariada/">Christoph Pirkl</a>
-and <a href="https://www.linkedin.com/in/thomas-bestfleisch/">Thomas Bestfleisch</a>
-from <a href="{{site.url}}/ecosystem/data-source.html#exasol">Exasol</a> join us to
-talk about advantages and scenarios of using the in-memory, column-oriented RDBMS Exasol with Trino.</dd>
+Topic to be determined - contact us if you are interested to join as guest</dd>
 
 </dl>
 
